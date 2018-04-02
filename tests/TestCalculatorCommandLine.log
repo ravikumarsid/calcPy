@@ -1,0 +1,16 @@
+04/02/2018 01:32:02 AM - test_calc.py:118 - test_div_invalid_input() -TestCalculatorCommandLine - DEBUG: test for multiplcation with invalid inputs
+04/02/2018 01:32:02 AM - test_calc.py:125 - test_div_valid_input() -TestCalculatorCommandLine - DEBUG: test for division with valid inputs
+04/02/2018 01:32:02 AM - test_calc.py:150 - test_mean_invalid_input() -TestCalculatorCommandLine - DEBUG: test for mean with invalid input
+04/02/2018 01:32:02 AM - test_calc.py:157 - test_mean_valid_input() -TestCalculatorCommandLine - DEBUG: test for mean with valid input
+04/02/2018 01:32:02 AM - test_calc.py:101 - test_mul_invalid_input() -TestCalculatorCommandLine - DEBUG: test for multiplcation with invalid inputs
+04/02/2018 01:32:02 AM - test_calc.py:109 - test_mul_valid_input() -TestCalculatorCommandLine - DEBUG: test for multiplication with valid inputs
+04/02/2018 01:32:02 AM - test_calc.py:166 - test_range_invalid_input() -TestCalculatorCommandLine - DEBUG: test for range with invalid input
+04/02/2018 01:32:02 AM - test_calc.py:173 - test_range_valid_input() -TestCalculatorCommandLine - DEBUG: test for range with valid input
+04/02/2018 01:32:02 AM - test_calc.py:134 - test_root_invalid_input() -TestCalculatorCommandLine - DEBUG: test for root with invalid input
+04/02/2018 01:32:02 AM - test_calc.py:141 - test_root_valid_input() -TestCalculatorCommandLine - DEBUG: test for root with valid input
+04/02/2018 01:32:02 AM - test_calc.py:84 - test_sub_invalid_input() -TestCalculatorCommandLine - DEBUG: test for subtraction with invalid inputs
+04/02/2018 01:32:02 AM - test_calc.py:92 - test_sub_valid_input() -TestCalculatorCommandLine - DEBUG: test for subtraction with valid inputs
+04/02/2018 01:32:02 AM - test_calc.py:49 - test_sum_invalid_input() -TestCalculatorCommandLine - DEBUG: test for sum with invalid inputs message
+04/02/2018 01:32:02 AM - test_calc.py:58 - test_sum_invalid_number_arguments_0() -TestCalculatorCommandLine - DEBUG: test for sum with zero input arguments
+04/02/2018 01:32:02 AM - test_calc.py:67 - test_sum_invalid_number_arguments_1() -TestCalculatorCommandLine - DEBUG: test for sum with one input argument
+04/02/2018 01:32:02 AM - test_calc.py:75 - test_sum_valid_input() -TestCalculatorCommandLine - DEBUG: test for sum with valid inputs message

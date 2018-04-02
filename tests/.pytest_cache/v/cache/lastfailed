@@ -1,0 +1,3 @@
+{
+  "test_calc.py::TestCalculatorCommandLine::test_sum_invalid_input": true
+}
